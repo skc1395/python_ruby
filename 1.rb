@@ -1,6 +1,5 @@
-x=10
-y=5
-puts(x+y)
-
-title="python & ruby"
-puts("Title is "+title)
+puts(1==1)
+puts(1==2)
+puts(1<2)
+puts(true)
+puts(false)

@@ -1,6 +1,5 @@
-x=10
-y=5
-print(x+y)
-
-title="python & ruby"
-print("Title is "+title)
+print(1==1)
+print(1==2)
+print(1>2)
+print(True)
+print(False)
