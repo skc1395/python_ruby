@@ -1,5 +1,9 @@
-print('hello world'.capitalize())
-print('hello world'.upper())
-print('hello world'.__len__())
-print(len('hello world'))
-print('Hello world'.replace('world','programming'))
+input = "ab"
+real_egoing = 11
+real_k8805 = "ab"
+if real_egoing == input:
+    print("Hello, egoing!")
+elif real_k8805 == input:
+    print("Hello, k8805!")
+else:
+    print("Who are you?")
