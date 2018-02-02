@@ -1,11 +1,11 @@
 puts("아이디를 입력해주세요.")
-input = gets.chomp()
-real_egoing = "11"
-real_k8805 = "ab"
-if real_egoing == input
-  puts("Hello, egoing!")
-elsif real_k8805 == input
-    puts("Hello, k8805!")
+input_id = gets.chomp()
+puts("비밀번호를 입력해주세요.")
+input_pwd = gets.chomp()
+real_id = "egoing"
+real_pwd = "11"
+if  real_id == input_id and real_pwd == input_pwd
+  puts("Hello!")
 else
   puts("Who are you?")
 end
